@@ -17,6 +17,7 @@ Mi nombre es Kevin Salamanca. Soy una persona autodidacta, y me encanta aprender
 - Bootstrap
 - Tailwind CSS
 - React
+- NextJS
 
 ### Backend 🔙
 
