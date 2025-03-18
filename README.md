@@ -25,8 +25,12 @@ Mi nombre es Kevin Salamanca. Soy una persona autodidacta, y me encanta aprender
 - GraphQL
 - NestJS
 - Microservicios
-- Docker
 - Spring Boot
+
+### Virtualización 💻
+- Docker
+- Linux
+- Windows
 
 ### Servicios en la nube ☁️
 
