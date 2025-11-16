@@ -5,13 +5,13 @@ Mi nombre es Kevin Salamanca. Soy una persona autodidacta, y me encanta aprender
 ## Conocimientos 💻
 
 ### Lenguajes 📝
-
 - JavaScript
 - TypeScript
 - Java
+- Python (Básico)
+- C# (Básico)
 
-### Frontend 🌐
-
+### Frontend 🌐 (Intermedio)
 - HTML
 - CSS
 - Bootstrap
@@ -19,19 +19,34 @@ Mi nombre es Kevin Salamanca. Soy una persona autodidacta, y me encanta aprender
 - React
 - NextJS
 
-### Backend 🔙
-
+### Backend 🔙 (Intermedio)
 - API REST
-- GraphQL
-- NestJS
 - Microservicios
+#### Frameworks 
+- NestJS
 - Spring Boot
 
-### Virtualización 💻
+### Desarrollo Movil 📱 (Básico)
+- React Native
+- Expo
+
+### Machine Learning 📊 (Básico)
+- Preprocesamient de datos
+- Clasificación
+- Clustering
+- Procesamiento de Lenguajes Naturales
+- Regresión
+- Transfer Learning
+- Tensorflow
+- Deep Learning
+- Redes Neuronales Artificiales (ANN)
+- Redes Neuronales Convolucionales (CNN)
+
+### Virtualización 💻 (Intermedio)
 - Docker
 - Linux
 - Windows
 
-### Servicios en la nube ☁️
-
+### Servicios en la nube ☁️ (Intermedio)
 - Amazon Web Services (AWS)
+- Google Cloud
