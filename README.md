@@ -3,8 +3,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-gmm97avu6.vercel.app?user=Kevin-Salamanca&locale=es&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats-gmm97avu6.vercel.app/Kevin-Salamanca/Kevin-Salamanca/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=false" height="151" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kevin-Salamanca&locale=es&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-one-xi-44.vercel.app/api?username=Kevin-Salamanca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=false" height="151" alt="stats graph" />
 </div>
 
 ###
